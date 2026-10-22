@@ -1,0 +1,279 @@
+{
+  "recording": "demo/reaction_raw.mp4",
+  "dirty_words": 40,
+  "removed_fillers": 5,
+  "shots": [
+    {
+      "source_start": 0.2,
+      "source_end": 3.133,
+      "play_start": 0.5,
+      "play_end": 4.5,
+      "pause_at": 2.6,
+      "narration": "Gila ternyata harga beras naik sampai dua juta rupiah"
+    },
+    {
+      "source_start": 3.533,
+      "source_end": 6.467,
+      "play_start": 4.0,
+      "play_end": 8.0,
+      "pause_at": 6.1,
+      "narration": "Plot twist yang ini bikin semua orang kaget ngakak"
+    },
+    {
+      "source_start": 6.867,
+      "source_end": 9.8,
+      "play_start": 7.5,
+      "play_end": 12.0,
+      "pause_at": 9.95,
+      "narration": "Yang sebenarnya terjadi sangat kontroversial dan penting"
+    }
+  ],
+  "effects": [
+    {
+      "shot": 0,
+      "t_rel": 0.0,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "💀"
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.05,
+      "dur": 0.35,
+      "type": "whoosh",
+      "params": {}
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.2,
+      "dur": 0.9,
+      "type": "snap_zoom",
+      "params": {
+        "scale": 1.5
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.35,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "ternyata",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.35,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "🤯"
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.4,
+      "dur": 1.0,
+      "type": "bass_drop",
+      "params": {}
+    },
+    {
+      "shot": 0,
+      "t_rel": 0.7,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "harga",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 1.05,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "beras",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 2.1,
+      "dur": 0.5,
+      "type": "cha_ching",
+      "params": {}
+    },
+    {
+      "shot": 0,
+      "t_rel": 2.45,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "💸"
+      }
+    },
+    {
+      "shot": 0,
+      "t_rel": 2.633,
+      "dur": 0.3,
+      "type": "whip_pan",
+      "params": {}
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.05,
+      "dur": 0.35,
+      "type": "whoosh",
+      "params": {}
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.167,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "bikin",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.2,
+      "dur": 0.9,
+      "type": "snap_zoom",
+      "params": {
+        "scale": 1.5
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.3,
+      "dur": 0.8,
+      "type": "earthquake_shake",
+      "params": {
+        "strength": 14
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.4,
+      "dur": 1.0,
+      "type": "bass_drop",
+      "params": {}
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.5,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "🤯"
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.517,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "KAGET",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.517,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "😱"
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.8,
+      "dur": 1.2,
+      "type": "hand_marker",
+      "params": {
+        "shape": "circle",
+        "color": "red"
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.867,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "ngakak",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 0.867,
+      "dur": 1.2,
+      "type": "sentiment_emoji",
+      "params": {
+        "emoji": "💀"
+      }
+    },
+    {
+      "shot": 1,
+      "t_rel": 2.634,
+      "dur": 0.3,
+      "type": "whip_pan",
+      "params": {}
+    },
+    {
+      "shot": 2,
+      "t_rel": 0.0,
+      "dur": 2.93,
+      "type": "slow_push_in",
+      "params": {
+        "to": 1.12
+      }
+    },
+    {
+      "shot": 2,
+      "t_rel": 0.0,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "harga",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 2,
+      "t_rel": 0.05,
+      "dur": 0.35,
+      "type": "whoosh",
+      "params": {}
+    },
+    {
+      "shot": 2,
+      "t_rel": 0.333,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "beras",
+        "size": 1.6
+      }
+    },
+    {
+      "shot": 2,
+      "t_rel": 1.733,
+      "dur": 0.5,
+      "type": "kinetic_typography",
+      "params": {
+        "word": "rupiah",
+        "size": 1.6
+      }
+    }
+  ]
+}

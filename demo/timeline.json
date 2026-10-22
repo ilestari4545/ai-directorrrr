@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "play_start": 0.5,
+      "play_end": 4.5,
+      "pause_at": 2.6,
+      "narration": "Gila ternyata harga beras naik sampai dua juta rupiah",
+      "reason": "heuristik"
+    },
+    {
+      "play_start": 4.0,
+      "play_end": 8.0,
+      "pause_at": 6.1,
+      "narration": "Plot twist yang ini bikin semua orang kaget ngakak",
+      "reason": "heuristik"
+    },
+    {
+      "play_start": 7.5,
+      "play_end": 12.0,
+      "pause_at": 9.95,
+      "narration": "Yang sebenarnya terjadi sangat kontroversial dan penting",
+      "reason": "heuristik"
+    }
+  ],
+  "format": "shorts",
+  "budget_seconds": 60,
+  "source_video": "demo/target.mp4",
+  "source_duration": 12,
+  "title": "target"
+}
